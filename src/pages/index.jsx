@@ -121,7 +121,7 @@ export default function Index() {
             <a
               target="_blank"
               rel="external noreferrer"
-              href=""
+              href="https://apps.apple.com/us/app/kalkulator-saham/id6445988371"
               style={{
                 height: 40,
                 display: "block",
